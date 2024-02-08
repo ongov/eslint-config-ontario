@@ -10,7 +10,7 @@ This package provides the shared ESLint configuration used by Ontario Frontend p
 - **Single Quotes**: Enforces the use of single quotes for strings, except in Markdown files where double quotes are preferred.
 - **Trailing Commas**: Requires trailing commas in multi-line objects, arrays, etc., which makes version control diffs cleaner.
 - **Bracket Spacing**: Ensures spaces are present inside object literal braces for better readability.
-- **Bracket Same Line**: Places the closing angle bracket of JSX elements on the same line as the last prop.
+- **Bracket Same Line**: Places the closing angle bracket of elements on the same line as the last prop.
 - **Overrides for Markdown**: For `.md` files, double quotes are used instead of single quotes.
 
 ## Installation
